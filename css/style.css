@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&family=Original+Surfer&display=swap");
+body {
+    max-width: 550px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 1em;
+  }
+  header { 
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto auto;
+    justify-items: center;    
+    background-color: #3023dd; /*Dark red*/   
+    height: 180px; 
+    box-shadow: 10px 10px 10px  #999; 
+    border-radius: 7px 7px 7px 7px;
+    padding: 5px;  
+          
+  }
+ h1 {
+    font-family: "Original Surfer", georgia, sans-serif;
+    color: white;
+    font-size: 3em;
+    text-align: right; 
+    grid-column: 1; 
+    padding-top: 30px; 
+  }
+img {
+    
+    border-radius: 5px 5px 5px 5px;
+    height: 160px;  
+    border: 3px solid #c1beba; /* light gray */    
+    grid-column: 1;  
+    margin-top: 12px;  
+ }
+
+.footer_class {
+    background-color: #3023dd; /*Dark red*/   
+    height: 100px; 
+    box-shadow: 10px 10px 10px  #999; 
+    border-radius: 7px 7px 7px 7px;    
+    text-align: center; 
+    padding: 5px;    
+}
+
+
+#copyrigth {
+    color: white;     
+ }
+
+.footer_update{
+    color: rgb(221, 224, 22); 
+    font-size: large;
+ } 
+
+ footer p {
+   color:white
+ }
+
+ 
