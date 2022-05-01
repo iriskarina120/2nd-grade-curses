@@ -2,6 +2,7 @@
     h1 {
         font-size: 1 em;
         margin-top: 5px;
+        align-self: initial;
     }
     h2{
         font-size: 1 em;
