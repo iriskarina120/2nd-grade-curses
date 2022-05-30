@@ -10,7 +10,7 @@ body {
     grid-template-columns: auto auto;
     grid-template-rows: auto auto auto;
     justify-items: center;    
-    background-color: #3023dd;   
+    background-color:  #FE5F55;   
     height: 160px; 
     box-shadow: 10px 10px 10px  #999; 
     border-radius: 7px 7px 7px 7px;
@@ -25,6 +25,13 @@ body {
     grid-column: 1; 
     padding-top: 30px; 
   }
+
+  h2 {
+    font-family: "Original Surfer", georgia, sans-serif;
+    color: #FE5F55;
+    font-size: 1.8em;
+    text-align: center; 
+  }
 img {
     
     border-radius: 5px 5px 5px 5px;
@@ -35,7 +42,7 @@ img {
  }
 
 .footer_class {
-    background-color: #3023dd; /*Dark red*/   
+    background-color:  #FE5F55; /*Pink*/   
     height: 90px; 
     box-shadow: 10px 10px 10px  #999; 
     border-radius: 7px 7px 7px 7px;    
