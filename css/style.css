@@ -1,9 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto&family=Original+Surfer&display=swap");
 body {
-    max-width: 550px;
-    margin: 0 auto;
-    background-color: white;
-    padding: 1em;
+  max-width: 70%;
+  margin: 0 auto;
+  background-color: white;
+  padding: 1em;
   }
   header { 
     display: grid;
