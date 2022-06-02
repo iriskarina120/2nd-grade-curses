@@ -42,8 +42,7 @@ img {
  }
 
 .footer_class {
-    background-color:  #FE5F55; /*Pink*/   
-    height: 90px; 
+    background-color:  #FE5F55; /*Pink*/    
     box-shadow: 10px 10px 10px  #999; 
     border-radius: 7px 7px 7px 7px;    
     text-align: center; 
